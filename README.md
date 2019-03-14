@@ -3,3 +3,6 @@
 https://kenbenoit.net/pdfs/text_analysis_in_R.pdf
 # You can find information related to topicmodels package in Package ‘topicmodels’
 https://cran.r-project.org/web/packages/topicmodels/topicmodels.pdf
+# You can find a book "Text Mining with R"
+https://www.tidytextmining.com/
+#
