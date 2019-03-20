@@ -1,5 +1,5 @@
-#BOOKS
+# BOOKS
 
 
-
-A good book for clustering: https://uc-r.github.io/kmeans_clustering
+# LINKS: 
+A good link for clustering: https://uc-r.github.io/kmeans_clustering
